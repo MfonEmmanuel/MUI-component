@@ -1,0 +1,12 @@
+/* MuiTextarea.css */
+.textarea {
+    --Textarea-focusedInset: 0;
+    --Textarea-focusedThickness: 2px;
+    --Textarea-focusedHighlight: rgba(25, 118, 210, 0.5);
+  }
+  
+  .helper-text {
+    color: red;
+    margin-top: 4px;
+  }
+  
